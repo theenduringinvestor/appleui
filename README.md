@@ -1,1 +1,1 @@
-# appleui
+Build a Apple Macbook Pro Store UI with a responsive layout, modals, video player, checkout, and cart.# appleui
